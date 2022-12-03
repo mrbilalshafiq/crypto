@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: my-flask-app
-          image: crypto-image
+          image: mrbilalshafiq/crypto-image
           ports:
             - containerPort: 5000
 
